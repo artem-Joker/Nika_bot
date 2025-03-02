@@ -1,0 +1,4 @@
+python-telegram-bot==20.8
+nest-asyncio==1.5.8
+together==0.2.7
+openai==1.3.5
